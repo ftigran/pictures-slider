@@ -1,0 +1,38 @@
+.App {
+	text-align: center;
+	/* max-height: 100vh; */
+}
+.fslightbox-source-inner {
+	height: 100%;
+}
+.fslightbox-source-inner > img {
+	height: 100% !important;
+	width: auto !important;
+}
+.swiper {
+	height: 100vh;
+}
+.slider {
+	display: flex;
+	height: 100vh;
+	width: 100vw;
+	overflow-x: scroll;
+	/* scroll-behavior: smooth; */
+	--active-slide-index: 1;
+	--active-slide-scale: 110%;
+	outline: none;
+}
+
+.slider img {
+	transition: transform 0.1s 0.2s;
+}
+.slider img.active {
+	transform: scale(var(--active-slide-scale));
+}
+.slider img:nth-child(var(--active-slide-index)) {
+	transform: scale(2.1);
+}
+body {
+	/* width: 100vw;
+  overflow: hidden; */
+}

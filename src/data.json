@@ -1,0 +1,37 @@
+{
+	"Grayscale": [
+        "https://picsum.photos/500/1000?grayscale",
+        "https://picsum.photos/500/1001?grayscale",
+        "https://picsum.photos/500/1002?grayscale",
+        "https://picsum.photos/500/1003?grayscale",
+        "https://picsum.photos/500/1004?grayscale",
+        "https://picsum.photos/500/1005?grayscale",
+        "https://picsum.photos/500/1006?grayscale",
+        "https://picsum.photos/500/1007?grayscale",
+        "https://picsum.photos/500/1008?grayscale",
+        "https://picsum.photos/1500/1010?grayscale",
+        "https://picsum.photos/1500/1020?grayscale",
+        "https://picsum.photos/500/1009?grayscale",
+        "https://picsum.photos/600/1000?grayscale",
+        "https://picsum.photos/610/1000?grayscale",
+        "https://picsum.photos/520/1000?grayscale"
+    ],
+    "Blur": [
+        "https://picsum.photos/700/601/?blur",
+        "https://picsum.photos/700/602/?blur",
+        "https://picsum.photos/700/603/?blur",
+        "https://picsum.photos/700/604/?blur",
+        "https://picsum.photos/700/605/?blur",
+        "https://picsum.photos/700/606/?blur",
+        "https://picsum.photos/700/607/?blur",
+        "https://picsum.photos/700/608/?blur"
+    ],
+    "Default": [
+        "https://picsum.photos/700/601/",
+        "https://picsum.photos/700/602/",
+        "https://picsum.photos/700/603/",
+        "https://picsum.photos/700/604/",
+        "https://picsum.photos/700/605/",
+        "https://picsum.photos/700/606/"
+    ]
+}
